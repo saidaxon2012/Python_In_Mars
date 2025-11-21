@@ -1,0 +1,29 @@
+# yosh = int(input("Yoshingizni kirinting: "))
+# if yosh > 18:
+#     print("Balog'at yoshidan oshgansiz.")
+# elif yosh == 18:
+#     print("Balog'at yoshiga yetgansiz.")
+# else:
+#     print("Balog'at yoshiga yetmagansiz.")
+    
+
+# print(8 + 12 == 21)
+# print(30 - 15 == 10)
+# # print(6 * 4 != 25)
+# print(45 / 5 == 9)
+# # print(19 % 4 == 3)
+# # print(100 // 9 == 11)
+# # print(3 ** 5 == 243)
+# print((7 + 3) * 2 == 25)
+# print(64 ** 0.5 == 7)
+# # print(18 % 7 != 4)
+# # print(50 // 6 == 8)
+# print((20 - 5) * 3 == 45)
+# print(9 * 9 != 80)
+# # print(144 ** 0.5 == 11)
+# # print(33 % 5 == 4)
+# print(200 / 20 == 9)
+# print((4 + 6 + 8) == 18)
+# # print(10 ** 2 != 90)
+# print(55 - 5 * 9 == 10)
+# # print(27 // 4 == 6)
