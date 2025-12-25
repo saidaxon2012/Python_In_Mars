@@ -1,10 +1,10 @@
-yosh = int(input("Yoshingizni kirinting: "))
-if yosh > 18:
-    print("Balog'at yoshidan oshgansiz.")
-elif yosh == 18:
-    print("Balog'at yoshiga yetgansiz.")
-else:
-    print("Balog'at yoshiga yetmagansiz.")
+# yosh = int(input("Yoshingizni kirinting: "))
+# if yosh > 18:
+#     print("Balog'at yoshidan oshgansiz.")
+# elif yosh == 18:
+#     print("Balog'at yoshiga yetgansiz.")
+# else:
+#     print("Balog'at yoshiga yetmagansiz.")
 
 # print(8 + 12 == 21)
 # print(30 - 15 == 10)
@@ -25,4 +25,4 @@ else:
 # print((4 + 6 + 8) == 18)
 # # print(10 ** 2 != 90)
 # print(55 - 5 * 9 == 10)
-# # print(27 // 4 == 6)
+print(27 // 4)
